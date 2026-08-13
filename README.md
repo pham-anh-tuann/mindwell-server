@@ -4,13 +4,12 @@
   <img src="https://raw.githubusercontent.com/pham-anh-tuann/mindwell-app/main/assets/images/icon.png" alt="MindWell Banner" width="20%" />
 </div>
 
-> **Đề tài Nghiên cứu Khoa học - Viện Công nghệ thông tin** | Phân hệ Backend cốt lõi xử lý luồng dữ liệu thời gian thực, kiểm duyệt cộng đồng tự động và giao tiếp với Trí tuệ Nhân tạo.
+>  Phân hệ Backend cốt lõi xử lý luồng dữ liệu thời gian thực, kiểm duyệt cộng đồng tự động và giao tiếp với Trí tuệ Nhân tạo.
 > 
 > 🔗 **[Mã nguồn Backend (RESTful API & Socket)](https://github.com/pham-anh-tuann/mindwell-server)**
 > 
 > 📱 *Xem mã nguồn phân hệ Frontend (Mobile App) [tại đây](https://github.com/pham-anh-tuann/mindwell-app).*
 > 
-> 🌐 *Xem phân hệ Quản trị viên (Admin Dashboard) [tại đây](https://mindwell-admin.vercel.app).*
 
 ## 📐 Kiến trúc Hệ thống & Sơ đồ Luồng (System Architecture)
 Hệ thống được thiết kế theo mô hình RESTful API kết hợp Real-time WebSocket, phân tách rõ ràng luồng dữ liệu tức thời và các tác vụ chạy ngầm.
