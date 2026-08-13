@@ -9,7 +9,8 @@
 > 🔗 **[Mã nguồn Backend (RESTful API & Socket)](https://github.com/pham-anh-tuann/mindwell-server)**
 > 
 > 📱 *Xem mã nguồn phân hệ Frontend (Mobile App) [tại đây](https://github.com/pham-anh-tuann/mindwell-app).*
-> 
+>
+> 👉 **[Truy cập MindWell Web Emulator tại đây](https://appetize.io/embed/b_gz2l6hl4wqmptlh7veup3db2a4?centered=true)**
 
 ## 📐 Kiến trúc Hệ thống & Sơ đồ Luồng (System Architecture)
 Hệ thống được thiết kế theo mô hình RESTful API kết hợp Real-time WebSocket, phân tách rõ ràng luồng dữ liệu tức thời và các tác vụ chạy ngầm.
